@@ -9,7 +9,7 @@ Students: [complete here]
 10:00 - 10:30 Project's introduction  
 10:30 - 12:30 Preliminaries & Installation  
 
-14:30 - 17:00 Donkey Car framework: Data collection & Inspection  
+14:30 - 17:00 Donkey Car framework: Data collection & Inspection. Check useful tips in our [Wiki](../../wiki)  
 17:00 - 17:30 Summary of the day  
 
 # Tuesday
