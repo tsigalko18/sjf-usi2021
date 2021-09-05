@@ -5,26 +5,26 @@ Students: [complete here]
 
 # Monday
 
-09:30 - 10:00 Presentations
-10:00 - 10:30 Project's introduction
-10:30 - 12:30 Preliminaries & Installation
+09:30 - 10:00 Presentations 
+10:00 - 10:30 Project's introduction 
+10:30 - 12:30 Preliminaries & Installation 
 
-14:30 - 17:00 Donkey Car framework: Data collection & Inspection
-17:00 - 17:30 Summary of the day
+14:30 - 17:00 Donkey Car framework: Data collection & Inspection 
+17:00 - 17:30 Summary of the day 
 
 # Tuesday
 
-TBD
+TBD 
 
 # Wedsneday
 
-TBD
+TBD 
 
 # Thursday
 
-09:30 - 12:30 Poster Preparation
-14:30 - 17:30 Presentation Preparation
+09:30 - 12:30 Poster Preparation 
+14:30 - 17:30 Presentation Preparation 
 
 # Friday
 
-10:30 Trip to Uni Basel
+10:30 Trip to Uni Basel 
