@@ -1,7 +1,7 @@
 # [SJF] USI 2021
 
-Tutors: Dr. Andrea Stocco (andrea.stocco@usi.ch), Dr. Vincenzo Riccio (vincenzo.riccio@usi.ch)
-Students: [complete here]
+Tutors: Dr. Andrea Stocco (andrea.stocco@usi.ch), Dr. Vincenzo Riccio (vincenzo.riccio@usi.ch)  
+Students: [complete here]  
 
 # Monday
 
