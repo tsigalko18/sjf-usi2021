@@ -1,7 +1,7 @@
 # [SJF] USI 2021
 
 Tutors: Dr. Andrea Stocco (andrea.stocco@usi.ch), Dr. Vincenzo Riccio (vincenzo.riccio@usi.ch)  
-Students: Nicolas Tscherter (nicolas@tscherter.net)
+Students: Nicolas Tscherter (nicolas@tscherter.net), Mays Alsawaf (maisalsawaf2@hotmail.com)
 
 # Monday
 
